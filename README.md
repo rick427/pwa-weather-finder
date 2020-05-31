@@ -9,6 +9,6 @@ The app can also be found on the PWA Store
 A html file containing details about the audit can be found in the report folder.
 
 #### Screenshot ####
-<img src="/screenshot/img.PNG" alt="screenshot" width="350">
+<img src="/screenshot/img.PNG" alt="screenshot">
 
 
